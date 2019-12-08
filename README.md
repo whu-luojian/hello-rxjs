@@ -12,5 +12,5 @@ npx babel-node src/observable/observable.js
 ```
 
 ### 相关笔记
-[Rxjs 入门](https://whu-luojian.github.io/book/rxjs-abc.html)
-[操作符基础及Rxjs 6](https://whu-luojian.github.io/book/rxjs-operator-abc.html)
+- [Rxjs 入门](https://whu-luojian.github.io/book/rxjs-abc.html)
+- [操作符基础及Rxjs 6](https://whu-luojian.github.io/book/rxjs-operator-abc.html)
